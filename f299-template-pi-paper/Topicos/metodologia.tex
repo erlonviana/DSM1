@@ -1,0 +1,43 @@
+Para a problemática de uma fazenda vertical orientada por redes neurais foi definida a necessidade de mapear uma solução lógica de como o sistema de gerenciamento irá funcionar. O mapeamento (a partir da literatura existente) indicou que os dados serão coletados pelos sensores instalados na fazenda vertical para alimentação do banco de dados que, por sua vez, será utilizado como base para que o algoritmo realize a tomada de decisão dos parâmetros. Os parâmetros podem ser manuais (geridos pelo usuário) ou podem ser total ou parcialmente automatizados (com o gerenciamento sendo feito pela Rede Neural).
+
+\begin{flowchart}[!htb]
+    \centering
+    \caption{Exemplo de funcionamento do sistema proposto}%
+    \label{fcht:fluxograma}
+    \includegraphics[scale=1]{fluxograma}
+    \SourceOrNote{Autoria Própria (2024)}
+    \end{flowchart}
+
+O sistema proposto visa criar um ambiente autônomo de fazendas verticais orientado por redes neurais. Para isto, utiliza o banco de dados do sistema Apex (baseado em SQL) para armazenagem dos dados coletados pelos sensores instalados na fazenda vertical. Logo, há a necessidade do diagrama do banco de dados para sua posterior
+
+O usuário, após criação de uma conta no sistema (etapas de 1 a 6), define os parâmetros de operação da fazenda vertical (etapa 7) podendo definir os valores manualmente ou deixar que a rede neural faça a definição (neste ponto foi identificada a necessidade de criação de um protótipo para as interfaces utilizadas e de uma plataforma web). Na etapa 8, o aplicativo já exibe informações atualizadas, controlando os fluxos de água e nutrientes (etapa 9) e fazendo o acompanhamento da fazenda de forma geral (etapa 10) com base nos sensores instalados. Por sua vez, os sensores (etapa 11) enviam as informações para o banco de dados do sistema (etapa a). Os dados são armazenados em um servidor (etapa b) que efetua o backup automático para um segundo servidor (etapa c) (sendo assim identificada a importância de um diagrama da rede a ser utilizada). Por fim, os dados são encaminhados, via internet (etapa d), para a rede neural em nuvem (etapa e). Na rede neural são definidos, com base nos dados armazenados, os valores ideais de operação do sistema e definidas as taxas de fluxo de água (levando em consideração que na água já teremos o fertilizante adicionado) e a taxa de crescimento esperada. No caso de operação em modo manual (controle pleno do usuário), a rede neural apenas faz o monitoramento dos dados.
+
+Além disso, criado um site e realizada uma análise do projeto (via Canvas) para identificar possibilidades de empreendedorismo na proposta.
+
+\subsection*{PROTOTIPAÇÃO DE INTERFACES} 
+
+A prototipação é uma etapa que visa desenvolver um sistema em curto prazo, atendendo às necessidades do cliente. Com o protótipo é possível propor uma solução ao problema, aumentando seu valor. Desta forma, pode-se avaliar os recursos, sua utilização, layout e a experiência do usuário de forma geral. A prototipação também é chamada de Modelo Evolutivo e determina com precisão como serão as atividades da criação do software \cite{rocha2019}.
+
+Para o processo de prototipação do nosso sistema foi utilizado o sistema Figma, auto-intitulado “ferramenta de design de interface colaborativa”.
+
+\subsection*{DIAGRAMAÇÃO DE BANCO DE DADOS}
+
+A modelagem de dados é parte principal do projeto do banco de dados de um software. Entre as técnicas existentes, o modelo de entidade-relacionamento é ainda muito utilizado. Com este modelo, é possível projetar um banco de dados de forma simples e legível tanto pelo projetista quanto pelo usuário final \cite{terra2020}.
+
+Para a diagramação do nosso banco de dados foi utilizado o Brmodelo, software gratuito.
+
+\subsection*{ANÁLISE DE PROJETO}
+
+A modelagem Canvas para análise de negócios é conhecida por ser uma ferramenta que simplifica e facilmente demonstra as complexidades e como uma empresa funciona. Além disso, é uma ferramenta útil para entender o modelo de negócio e conduzir o processo de inovação \cite{quastharin2016}.
+
+Para a análise de projeto foi utilizada a ferramenta Canvas disponibilizada gratuitamente pelo Sebrae \citeyear{sebrae2024}.
+
+\subsection*{PLATAFORMA WEB}
+
+Um banco de dados é uma coleção de dados que se relacionam. Os dados são informações do mundo real que podem ser gravados e possuem um significado (exemplo: uma agenda telefônica). Um sistema gerenciador de banco de dados (SGBD) é uma gama de programas que permitem ao usuário criar e gerenciar um banco de dados \cite{elmasri2005}. A estrutura de banco de dados utilizada seria a Oracle Apex, uma plataforma low-code baseada em web.
+
+Uma plataforma low-code permite a criação de aplicativos de negócios com entrega contínua e rápida, com um mínimo de programação. Funciona por meio de interfaces gráficas e alguns componentes, sendo necessário apenas fazer "drag and drop" (arrastar e soltar) \cite{karmali2019}.
+
+\subsection*{SITE}
+
+Para divulgação do projeto foi criado um site. Site é uma página digital na web cuja principal característica é a organização de seu conteúdo, facilitando sua busca. Normalmente são utilizados para apresentar produtos ou serviços \cite{martha2010}.

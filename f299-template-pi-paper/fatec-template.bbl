@@ -1,0 +1,900 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{seade2024Pib}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4ac091b58a8a61ed962ff55972391f18}{%
+           family={Análise\bibnamedelimb de\bibnamedelimb Dados\bibnamedelima SEADE},
+           familyi={A\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Fundação\bibnamedelimb Sistema\bibnamedelima Estadual},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{4ac091b58a8a61ed962ff55972391f18}
+      \strng{fullhash}{4ac091b58a8a61ed962ff55972391f18}
+      \strng{fullhashraw}{4ac091b58a8a61ed962ff55972391f18}
+      \strng{bibnamehash}{4ac091b58a8a61ed962ff55972391f18}
+      \strng{authorbibnamehash}{4ac091b58a8a61ed962ff55972391f18}
+      \strng{authornamehash}{4ac091b58a8a61ed962ff55972391f18}
+      \strng{authorfullhash}{4ac091b58a8a61ed962ff55972391f18}
+      \strng{authorfullhashraw}{4ac091b58a8a61ed962ff55972391f18}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Seade PIB}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pib.seade.gov.br/anual/
+      \endverb
+      \verb{url}
+      \verb https://pib.seade.gov.br/anual/
+      \endverb
+    \endentry
+    \entry{sebrae2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=89cd5a2054399e67a25afd7b20acd44f}{%
+           family={Apoio\bibnamedelimb as\bibnamedelimb Micro\bibnamedelimb e\bibnamedelimb Pequenas\bibnamedelimb Empresas\bibnamedelima SEBRAE},
+           familyi={A\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Serviço\bibnamedelima Brasileiro},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{89cd5a2054399e67a25afd7b20acd44f}
+      \strng{fullhash}{89cd5a2054399e67a25afd7b20acd44f}
+      \strng{fullhashraw}{89cd5a2054399e67a25afd7b20acd44f}
+      \strng{bibnamehash}{89cd5a2054399e67a25afd7b20acd44f}
+      \strng{authorbibnamehash}{89cd5a2054399e67a25afd7b20acd44f}
+      \strng{authornamehash}{89cd5a2054399e67a25afd7b20acd44f}
+      \strng{authorfullhash}{89cd5a2054399e67a25afd7b20acd44f}
+      \strng{authorfullhashraw}{89cd5a2054399e67a25afd7b20acd44f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Crie seu modelo de negócios de graça com Sebrae Canvas}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://canvas-apps.pr.sebrae.com.br/
+      \endverb
+      \verb{url}
+      \verb https://canvas-apps.pr.sebrae.com.br/
+      \endverb
+    \endentry
+    \entry{carnaz2016}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fe042e55d065720a1982fc874fb73b7c}{%
+           family={Carnaz},
+           familyi={C\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod},
+           givenun=0,
+           suffix={G.\bibnamedelimi J.\bibnamedelimi F.;\bibnamedelima Nogueira},
+           suffixi={G\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim N\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{location}{1}{%
+        {Evora}%
+      }
+      \strng{namehash}{fe042e55d065720a1982fc874fb73b7c}
+      \strng{fullhash}{fe042e55d065720a1982fc874fb73b7c}
+      \strng{fullhashraw}{fe042e55d065720a1982fc874fb73b7c}
+      \strng{bibnamehash}{fe042e55d065720a1982fc874fb73b7c}
+      \strng{authorbibnamehash}{fe042e55d065720a1982fc874fb73b7c}
+      \strng{authornamehash}{fe042e55d065720a1982fc874fb73b7c}
+      \strng{authorfullhash}{fe042e55d065720a1982fc874fb73b7c}
+      \strng{authorfullhashraw}{fe042e55d065720a1982fc874fb73b7c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Actas das 6as Jornadas de Informática de Universidade de Évora}
+      \field{title}{An Overview of IoT and Healthcare. Repositório Universidade de Évora}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/10174/19998
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/10174/19998
+      \endverb
+    \endentry
+    \entry{chloe2021}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=998a3380897d690b393ccdc1a7efe92a}{%
+           family={Chole},
+           familyi={C\bibinitperiod},
+           given={A.S.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e5d7261bf560b16c7cd573ecbb571562}{%
+           family={Jadhav},
+           familyi={J\bibinitperiod},
+           given={A.R.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5f2cb85e4d79c8e291cbe815c2968e4}{%
+           family={Shinde},
+           familyi={S\bibinitperiod},
+           given={V.N.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{260aedb743b34a840bab0b25efb8f739}
+      \strng{fullhash}{260aedb743b34a840bab0b25efb8f739}
+      \strng{fullhashraw}{260aedb743b34a840bab0b25efb8f739}
+      \strng{bibnamehash}{260aedb743b34a840bab0b25efb8f739}
+      \strng{authorbibnamehash}{260aedb743b34a840bab0b25efb8f739}
+      \strng{authornamehash}{260aedb743b34a840bab0b25efb8f739}
+      \strng{authorfullhash}{260aedb743b34a840bab0b25efb8f739}
+      \strng{authorfullhashraw}{260aedb743b34a840bab0b25efb8f739}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Just Agriculture}
+      \field{number}{5}
+      \field{title}{Vertical Farming: Controlled Environment Agriculture}
+      \field{volume}{1}
+      \field{year}{2021}
+      \field{pages}{249\bibrangedash 255}
+      \range{pages}{7}
+      \verb{urlraw}
+      \verb https://justagriculture.in/files/newsletter/2021/jan/055.pdf
+      \endverb
+      \verb{url}
+      \verb https://justagriculture.in/files/newsletter/2021/jan/055.pdf
+      \endverb
+    \endentry
+    \entry{elmasri2005}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f536af86dee092d62c6398b29ecf023d}{%
+           family={Elmasri},
+           familyi={E\bibinitperiod},
+           given={S.B},
+           giveni={S\bibinitperiod},
+           givenun=0,
+           suffix={R.;\bibnamedelima Navathe},
+           suffixi={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{f536af86dee092d62c6398b29ecf023d}
+      \strng{fullhash}{f536af86dee092d62c6398b29ecf023d}
+      \strng{fullhashraw}{f536af86dee092d62c6398b29ecf023d}
+      \strng{bibnamehash}{f536af86dee092d62c6398b29ecf023d}
+      \strng{authorbibnamehash}{f536af86dee092d62c6398b29ecf023d}
+      \strng{authornamehash}{f536af86dee092d62c6398b29ecf023d}
+      \strng{authorfullhash}{f536af86dee092d62c6398b29ecf023d}
+      \strng{authorfullhashraw}{f536af86dee092d62c6398b29ecf023d}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sistemas de Banco de Dados}
+      \field{year}{2005}
+    \endentry
+    \entry{cepea2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=74513ee66f4b4e0e26f0a2e95ae064c2}{%
+           family={Estudos\bibnamedelimb em\bibnamedelimb Economia\bibnamedelimb Aplicada\bibnamedelima {CEPEA}},
+           familyi={E\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Centro},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{74513ee66f4b4e0e26f0a2e95ae064c2}
+      \strng{fullhash}{74513ee66f4b4e0e26f0a2e95ae064c2}
+      \strng{fullhashraw}{74513ee66f4b4e0e26f0a2e95ae064c2}
+      \strng{bibnamehash}{74513ee66f4b4e0e26f0a2e95ae064c2}
+      \strng{authorbibnamehash}{74513ee66f4b4e0e26f0a2e95ae064c2}
+      \strng{authornamehash}{74513ee66f4b4e0e26f0a2e95ae064c2}
+      \strng{authorfullhash}{74513ee66f4b4e0e26f0a2e95ae064c2}
+      \strng{authorfullhashraw}{74513ee66f4b4e0e26f0a2e95ae064c2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PIB do Agronegócio Brasileiro}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://cepea.esalq.usp.br/br/pib-do-agronegocio-brasileiro.aspx
+      \endverb
+      \verb{url}
+      \verb https://cepea.esalq.usp.br/br/pib-do-agronegocio-brasileiro.aspx
+      \endverb
+    \endentry
+    \entry{martha2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=92c2f4a141380a6fbb25485c15b24be4}{%
+           family={Gabriel},
+           familyi={G\bibinitperiod},
+           given={Martha},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Novatec}%
+      }
+      \strng{namehash}{92c2f4a141380a6fbb25485c15b24be4}
+      \strng{fullhash}{92c2f4a141380a6fbb25485c15b24be4}
+      \strng{fullhashraw}{92c2f4a141380a6fbb25485c15b24be4}
+      \strng{bibnamehash}{92c2f4a141380a6fbb25485c15b24be4}
+      \strng{authorbibnamehash}{92c2f4a141380a6fbb25485c15b24be4}
+      \strng{authornamehash}{92c2f4a141380a6fbb25485c15b24be4}
+      \strng{authorfullhash}{92c2f4a141380a6fbb25485c15b24be4}
+      \strng{authorfullhashraw}{92c2f4a141380a6fbb25485c15b24be4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Marketing na era digital}
+      \field{year}{2010}
+    \endentry
+    \entry{AgênciaGov2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=89cca418af6c63e1effd1024ae923e9c}{%
+           family={GOV},
+           familyi={G\bibinitperiod},
+           given={Agência},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{89cca418af6c63e1effd1024ae923e9c}
+      \strng{fullhash}{89cca418af6c63e1effd1024ae923e9c}
+      \strng{fullhashraw}{89cca418af6c63e1effd1024ae923e9c}
+      \strng{bibnamehash}{89cca418af6c63e1effd1024ae923e9c}
+      \strng{authorbibnamehash}{89cca418af6c63e1effd1024ae923e9c}
+      \strng{authornamehash}{89cca418af6c63e1effd1024ae923e9c}
+      \strng{authorfullhash}{89cca418af6c63e1effd1024ae923e9c}
+      \strng{authorfullhashraw}{89cca418af6c63e1effd1024ae923e9c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Relatório online}
+      \field{title}{Brasil e países do Mercosul fazem projeções para o agronegócio}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://agenciagov.ebc.com.br/noticias/202410/brasil-elabora-documento-com-projecoes-para-o-agronegocio-em-parceria-com-paises-do-mercosul
+      \endverb
+      \verb{url}
+      \verb https://agenciagov.ebc.com.br/noticias/202410/brasil-elabora-documento-com-projecoes-para-o-agronegocio-em-parceria-com-paises-do-mercosul
+      \endverb
+    \endentry
+    \entry{govsp2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d226e00a6462b591aca027d1da3111fb}{%
+           family={{Governo de São Paulo}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{d226e00a6462b591aca027d1da3111fb}
+      \strng{fullhash}{d226e00a6462b591aca027d1da3111fb}
+      \strng{fullhashraw}{d226e00a6462b591aca027d1da3111fb}
+      \strng{bibnamehash}{d226e00a6462b591aca027d1da3111fb}
+      \strng{authorbibnamehash}{d226e00a6462b591aca027d1da3111fb}
+      \strng{authornamehash}{d226e00a6462b591aca027d1da3111fb}
+      \strng{authorfullhash}{d226e00a6462b591aca027d1da3111fb}
+      \strng{authorfullhashraw}{d226e00a6462b591aca027d1da3111fb}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Governo anuncia investimentos para o Vale do Ribeira}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.saopaulo.sp.gov.br/spnoticias/ultimas-noticias/governo-anuncia-investimentos-para-o-vale-do-ribeira/
+      \endverb
+      \verb{url}
+      \verb https://www.saopaulo.sp.gov.br/spnoticias/ultimas-noticias/governo-anuncia-investimentos-para-o-vale-do-ribeira/
+      \endverb
+    \endentry
+    \entry{gundim2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c918e5c2bf76d0c48ba72de24a206f65}{%
+           family={GUNDIM},
+           familyi={G\bibinitperiod},
+           given={R.\bibnamedelimi P},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0,
+           suffix={L.\bibnamedelimi L.\bibnamedelimi S.;\bibnamedelima LIMA},
+           suffixi={L\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{location}{1}{%
+        {Florianopolis, SC}%
+      }
+      \strng{namehash}{c918e5c2bf76d0c48ba72de24a206f65}
+      \strng{fullhash}{c918e5c2bf76d0c48ba72de24a206f65}
+      \strng{fullhashraw}{c918e5c2bf76d0c48ba72de24a206f65}
+      \strng{bibnamehash}{c918e5c2bf76d0c48ba72de24a206f65}
+      \strng{authorbibnamehash}{c918e5c2bf76d0c48ba72de24a206f65}
+      \strng{authornamehash}{c918e5c2bf76d0c48ba72de24a206f65}
+      \strng{authorfullhash}{c918e5c2bf76d0c48ba72de24a206f65}
+      \strng{authorfullhashraw}{c918e5c2bf76d0c48ba72de24a206f65}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Repositorio da Universidade Federal de Santa Catarina (UFSC)}
+      \field{title}{Edifícios agroprodutivos: a fazenda vertical como modelo sustentável de agricultura urbana}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://repositorio.ufsc.br/bitstream/handle/123456789/245051/Vol.%205%20474%20-%20485.pdf?sequence=1&isAllowed=y
+      \endverb
+      \verb{url}
+      \verb https://repositorio.ufsc.br/bitstream/handle/123456789/245051/Vol.%205%20474%20-%20485.pdf?sequence=1&isAllowed=y
+      \endverb
+    \endentry
+    \entry{haykin2001}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=91e57481898b943d6a72a1deba06a6a9}{%
+           family={Haykin},
+           familyi={H\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Bookman}%
+      }
+      \strng{namehash}{91e57481898b943d6a72a1deba06a6a9}
+      \strng{fullhash}{91e57481898b943d6a72a1deba06a6a9}
+      \strng{fullhashraw}{91e57481898b943d6a72a1deba06a6a9}
+      \strng{bibnamehash}{91e57481898b943d6a72a1deba06a6a9}
+      \strng{authorbibnamehash}{91e57481898b943d6a72a1deba06a6a9}
+      \strng{authornamehash}{91e57481898b943d6a72a1deba06a6a9}
+      \strng{authorfullhash}{91e57481898b943d6a72a1deba06a6a9}
+      \strng{authorfullhashraw}{91e57481898b943d6a72a1deba06a6a9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Redes neurais - Princípio e prática, 2a ed}
+      \field{year}{2001}
+    \endentry
+    \entry{ingram2023}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bc814c96feef3549ca5fa0ca025da330}{%
+           family={Ingram},
+           familyi={I\bibinitperiod},
+           given={Jay},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Simon}%
+        {Schuster}%
+      }
+      \strng{namehash}{bc814c96feef3549ca5fa0ca025da330}
+      \strng{fullhash}{bc814c96feef3549ca5fa0ca025da330}
+      \strng{fullhashraw}{bc814c96feef3549ca5fa0ca025da330}
+      \strng{bibnamehash}{bc814c96feef3549ca5fa0ca025da330}
+      \strng{authorbibnamehash}{bc814c96feef3549ca5fa0ca025da330}
+      \strng{authornamehash}{bc814c96feef3549ca5fa0ca025da330}
+      \strng{authorfullhash}{bc814c96feef3549ca5fa0ca025da330}
+      \strng{authorfullhashraw}{bc814c96feef3549ca5fa0ca025da330}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Future of Us: The Science of What We'll Eat, Where We'll Live, and Who We'll Be}
+      \field{year}{2023}
+    \endentry
+    \entry{karmali2019}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2e9b7f3877a0cadc79f216d7db148457}{%
+           family={Karmali},
+           familyi={K\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Lisboa}%
+      }
+      \strng{namehash}{2e9b7f3877a0cadc79f216d7db148457}
+      \strng{fullhash}{2e9b7f3877a0cadc79f216d7db148457}
+      \strng{fullhashraw}{2e9b7f3877a0cadc79f216d7db148457}
+      \strng{bibnamehash}{2e9b7f3877a0cadc79f216d7db148457}
+      \strng{authorbibnamehash}{2e9b7f3877a0cadc79f216d7db148457}
+      \strng{authornamehash}{2e9b7f3877a0cadc79f216d7db148457}
+      \strng{authorfullhash}{2e9b7f3877a0cadc79f216d7db148457}
+      \strng{authorfullhashraw}{2e9b7f3877a0cadc79f216d7db148457}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Repositório do Instituto Universitario de Lisboa}
+      \field{title}{Desenvolvimento de aplicação móvel para submissão/revisão de despesas recorrendo a metodologias ágeis de desenvolvimento e à plataforma low-code OutSystems}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/10071/20094
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/10071/20094
+      \endverb
+    \endentry
+    \entry{luz2006}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=abe396eb906c1f8eb0d44d52e2a48231}{%
+           family={Luz},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi M.\bibnamedelimi Q.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3dc53705aadc786efc4997763cdbe548}{%
+           family={Guimaraes},
+           familyi={G\bibinitperiod},
+           given={S.\bibnamedelimi T.\bibnamedelimi M.\bibnamedelimi R.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ad4e832e4555830c4eef41c84159bfd}{%
+           family={Korndofer},
+           familyi={K\bibinitperiod},
+           given={G.\bibnamedelimi H.},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{680c1844d33b3769ddf89b21a63383c1}
+      \strng{fullhash}{680c1844d33b3769ddf89b21a63383c1}
+      \strng{fullhashraw}{680c1844d33b3769ddf89b21a63383c1}
+      \strng{bibnamehash}{680c1844d33b3769ddf89b21a63383c1}
+      \strng{authorbibnamehash}{680c1844d33b3769ddf89b21a63383c1}
+      \strng{authornamehash}{680c1844d33b3769ddf89b21a63383c1}
+      \strng{authorfullhash}{680c1844d33b3769ddf89b21a63383c1}
+      \strng{authorfullhashraw}{680c1844d33b3769ddf89b21a63383c1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Horticultura Brasileira}
+      \field{number}{3}
+      \field{title}{Producao hidroponica de alface em solução nutritiva com e sem silicio}
+      \field{volume}{24}
+      \field{year}{2006}
+      \field{pages}{295\bibrangedash 300}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb https://www.scielo.br/j/hb/a/99RFWNLdK6G8HNLtFBpDzrL/?format=pdf&lang=pt
+      \endverb
+      \verb{url}
+      \verb https://www.scielo.br/j/hb/a/99RFWNLdK6G8HNLtFBpDzrL/?format=pdf&lang=pt
+      \endverb
+    \endentry
+    \entry{unric2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6a244c721058438e115e68a87012f40c}{%
+           family={ONU},
+           familyi={O\bibinitperiod},
+           given={Organização\bibnamedelimb Nações\bibnamedelima Unidas},
+           giveni={O\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6a244c721058438e115e68a87012f40c}
+      \strng{fullhash}{6a244c721058438e115e68a87012f40c}
+      \strng{fullhashraw}{6a244c721058438e115e68a87012f40c}
+      \strng{bibnamehash}{6a244c721058438e115e68a87012f40c}
+      \strng{authorbibnamehash}{6a244c721058438e115e68a87012f40c}
+      \strng{authornamehash}{6a244c721058438e115e68a87012f40c}
+      \strng{authorfullhash}{6a244c721058438e115e68a87012f40c}
+      \strng{authorfullhashraw}{6a244c721058438e115e68a87012f40c}
+      \field{extraname}{1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{História da ONU}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://unric.org/pt/historia-da-onu
+      \endverb
+      \verb{url}
+      \verb https://unric.org/pt/historia-da-onu
+      \endverb
+    \endentry
+    \entry{nacoesunidas2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6a244c721058438e115e68a87012f40c}{%
+           family={ONU},
+           familyi={O\bibinitperiod},
+           given={Organização\bibnamedelimb Nações\bibnamedelima Unidas},
+           giveni={O\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6a244c721058438e115e68a87012f40c}
+      \strng{fullhash}{6a244c721058438e115e68a87012f40c}
+      \strng{fullhashraw}{6a244c721058438e115e68a87012f40c}
+      \strng{bibnamehash}{6a244c721058438e115e68a87012f40c}
+      \strng{authorbibnamehash}{6a244c721058438e115e68a87012f40c}
+      \strng{authornamehash}{6a244c721058438e115e68a87012f40c}
+      \strng{authorfullhash}{6a244c721058438e115e68a87012f40c}
+      \strng{authorfullhashraw}{6a244c721058438e115e68a87012f40c}
+      \field{extraname}{2}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sobre o nosso trabalho para alcançar os Objetivos de Desenvolvimento Sustentável no Brasil}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://brasil.un.org/pt-br/sdgs
+      \endverb
+      \verb{url}
+      \verb https://brasil.un.org/pt-br/sdgs
+      \endverb
+    \endentry
+    \entry{phukan2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a04361097a882de68a8abcd5e1955983}{%
+           family={Phukan},
+           familyi={P\bibinitperiod},
+           given={Anshuuman},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Irjet}%
+      }
+      \strng{namehash}{a04361097a882de68a8abcd5e1955983}
+      \strng{fullhash}{a04361097a882de68a8abcd5e1955983}
+      \strng{fullhashraw}{a04361097a882de68a8abcd5e1955983}
+      \strng{bibnamehash}{a04361097a882de68a8abcd5e1955983}
+      \strng{authorbibnamehash}{a04361097a882de68a8abcd5e1955983}
+      \strng{authornamehash}{a04361097a882de68a8abcd5e1955983}
+      \strng{authorfullhash}{a04361097a882de68a8abcd5e1955983}
+      \strng{authorfullhashraw}{a04361097a882de68a8abcd5e1955983}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Research Journal of Engineering and Technology IRJET}
+      \field{number}{10}
+      \field{title}{Hydroponics using IOT and Machine Learning}
+      \field{volume}{9}
+      \field{year}{2022}
+      \field{pages}{207\bibrangedash 211}
+      \range{pages}{5}
+      \verb{urlraw}
+      \verb https://www.irjet.net/archives/V9/i10/IRJET-V9I1035.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.irjet.net/archives/V9/i10/IRJET-V9I1035.pdf
+      \endverb
+    \endentry
+    \entry{quastharin2016}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7c4db7312efa526de2e2744fe4e246d8}{%
+           family={Quastharin},
+           familyi={Q\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod},
+           givenun=0,
+           suffix={A.},
+           suffixi={A\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Star Publishing Company}%
+      }
+      \strng{namehash}{7c4db7312efa526de2e2744fe4e246d8}
+      \strng{fullhash}{7c4db7312efa526de2e2744fe4e246d8}
+      \strng{fullhashraw}{7c4db7312efa526de2e2744fe4e246d8}
+      \strng{bibnamehash}{7c4db7312efa526de2e2744fe4e246d8}
+      \strng{authorbibnamehash}{7c4db7312efa526de2e2744fe4e246d8}
+      \strng{authornamehash}{7c4db7312efa526de2e2744fe4e246d8}
+      \strng{authorfullhash}{7c4db7312efa526de2e2744fe4e246d8}
+      \strng{authorfullhashraw}{7c4db7312efa526de2e2744fe4e246d8}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Business and Economics}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{Business model canvas for social enterprise}
+      \field{volume}{7}
+      \field{year}{2016}
+      \field{pages}{627\bibrangedash 637}
+      \range{pages}{11}
+      \verb{urlraw}
+      \verb http://www.academicstar.us/UploadFile/Picture/2016-10/2016101151026221.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.academicstar.us/UploadFile/Picture/2016-10/2016101151026221.pdf
+      \endverb
+    \endentry
+    \entry{rocha2019}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=24f6a79270f4c5965bd1e0a5a72bb26d}{%
+           family={Rocha},
+           familyi={R\bibinitperiod},
+           given={G.\bibnamedelimi S.\bibnamedelimi C},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Santa Barabara D'oeste}%
+      }
+      \strng{namehash}{24f6a79270f4c5965bd1e0a5a72bb26d}
+      \strng{fullhash}{24f6a79270f4c5965bd1e0a5a72bb26d}
+      \strng{fullhashraw}{24f6a79270f4c5965bd1e0a5a72bb26d}
+      \strng{bibnamehash}{24f6a79270f4c5965bd1e0a5a72bb26d}
+      \strng{authorbibnamehash}{24f6a79270f4c5965bd1e0a5a72bb26d}
+      \strng{authornamehash}{24f6a79270f4c5965bd1e0a5a72bb26d}
+      \strng{authorfullhash}{24f6a79270f4c5965bd1e0a5a72bb26d}
+      \strng{authorfullhashraw}{24f6a79270f4c5965bd1e0a5a72bb26d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Scientia Repositório Institucional}
+      \field{title}{Engenharia de Software: Aplicativos web progressivos nativos para o comércio utilizando inteligências artificial para tomada de decisões}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://repositorio.pgsscogna.com.br/bitstream/123456789/28483/1/GABRIEL_DA_SILVA_COSTA_ROCHA_DEFESA.pdf
+      \endverb
+      \verb{url}
+      \verb https://repositorio.pgsscogna.com.br/bitstream/123456789/28483/1/GABRIEL_DA_SILVA_COSTA_ROCHA_DEFESA.pdf
+      \endverb
+    \endentry
+    \entry{saraswathy2020}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=395f7ab6fc3e2a1d9574d0e030e6ed15}{%
+           family={Saraswathy},
+           familyi={S\bibinitperiod},
+           given={V.\bibnamedelimi R.},
+           giveni={V\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d756411d56a1e61e8fd8168e2157a531}{%
+           family={Nithiesh},
+           familyi={N\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c95b65b65ee2ed20827f2d1fe9b7a272}{%
+           family={Kumaravel},
+           familyi={K\bibinitperiod},
+           given={P.\bibnamedelimi S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44cbce120d6f8003704e46955fda8e94}{%
+           family={Ruphasri},
+           familyi={R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ccd6756c834640ed8890d45561fda30}
+      \strng{fullhash}{7269ac21dc935dbf405699cbcb974147}
+      \strng{fullhashraw}{7269ac21dc935dbf405699cbcb974147}
+      \strng{bibnamehash}{1ccd6756c834640ed8890d45561fda30}
+      \strng{authorbibnamehash}{1ccd6756c834640ed8890d45561fda30}
+      \strng{authornamehash}{1ccd6756c834640ed8890d45561fda30}
+      \strng{authorfullhash}{7269ac21dc935dbf405699cbcb974147}
+      \strng{authorfullhashraw}{7269ac21dc935dbf405699cbcb974147}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Electrical Engineering and Technology (IJEET)}
+      \field{number}{4}
+      \field{title}{Integrating Intelligence in Hydroponic Farms}
+      \field{volume}{11}
+      \field{year}{2020}
+      \field{pages}{150\bibrangedash 158}
+      \range{pages}{9}
+      \verb{urlraw}
+      \verb https://iaeme.com/Home/issue/IJEET?Volume=11&Issue=4
+      \endverb
+      \verb{url}
+      \verb https://iaeme.com/Home/issue/IJEET?Volume=11&Issue=4
+      \endverb
+    \endentry
+    \entry{suresh2024}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6158dacff4c555353af9dcb8008973b6}{%
+           family={Suresh},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74e18b38488f2dae1b102a3bd047ef35}{%
+           family={Lohasundari},
+           familyi={L\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71f3aecdfe79508111177f370e2bea90}{%
+           family={Shanmukha},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9616941b7103dc833b3bc6fda7d13056}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d5165dc4ba8193774610d23a2a09dd75}{%
+           family={Srinivasan},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b3361d4933561b865168299d59df6158}
+      \strng{fullhash}{518d89aec5c76a2166e3d2ab289606b2}
+      \strng{fullhashraw}{518d89aec5c76a2166e3d2ab289606b2}
+      \strng{bibnamehash}{b3361d4933561b865168299d59df6158}
+      \strng{authorbibnamehash}{b3361d4933561b865168299d59df6158}
+      \strng{authornamehash}{b3361d4933561b865168299d59df6158}
+      \strng{authorfullhash}{518d89aec5c76a2166e3d2ab289606b2}
+      \strng{authorfullhashraw}{518d89aec5c76a2166e3d2ab289606b2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{E3S Web of Conferences}
+      \field{title}{IOT Based Automated Indoor Hydroponic Farming System}
+      \field{volume}{547}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1051/e3sconf/202454702002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.e3s-conferences.org/articles/e3sconf/abs/2024/77/e3sconf_icsget2024_02002/e3sconf_icsget2024_02002.html
+      \endverb
+      \verb{url}
+      \verb https://www.e3s-conferences.org/articles/e3sconf/abs/2024/77/e3sconf_icsget2024_02002/e3sconf_icsget2024_02002.html
+      \endverb
+    \endentry
+    \entry{terra2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff1de5869662a07aee9ce8d35a66a1e6}{%
+           family={Terra},
+           familyi={T\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \strng{fullhash}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \strng{fullhashraw}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \strng{bibnamehash}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \strng{authorbibnamehash}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \strng{authornamehash}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \strng{authorfullhash}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \strng{authorfullhashraw}{ff1de5869662a07aee9ce8d35a66a1e6}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modelagem Entidade-Relacionamento com TerraER}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://professores.dcc.ufla.br/~terra/publications_files/2020_sbbd_demo.pdf
+      \endverb
+      \verb{url}
+      \verb http://professores.dcc.ufla.br/~terra/publications_files/2020_sbbd_demo.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
